@@ -8,7 +8,7 @@ A pytorch model used to predict the price of a stock/ETF.
 
 ## Tasks
 1. Load dataset (Complete)
-2. Split dataset into training/test
+2. Split dataset into training/test (Complete)
 3. Create an LSTM model to predict the price based on the time series.
 4. Expand model to multiple incorporate data from multiple tickers.
 5. Take the date into account.
